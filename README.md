@@ -1,6 +1,4 @@
-# first_app
-
-A new Flutter project.
+# Select Seat Train
 
 ## Getting Started
 
